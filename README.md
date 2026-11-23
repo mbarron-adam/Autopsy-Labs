@@ -1,4 +1,4 @@
-# PROJECTNAME
+# Autopsy Labs
 
 ## Objective
 [Brief Objective - Remove this afterwards]
