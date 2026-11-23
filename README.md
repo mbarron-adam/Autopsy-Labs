@@ -12,7 +12,10 @@ The goal of these labs is to simulate cases of searching a hard drive of evidenc
 
 ### Tools Used
 
-- <a href="https://www.autopsy.com/">Autopsy 4.23.1</a>
-- <a href="https://www.openwall.com/john/">John the Ripper- Password Cracker</a>
-- Windows Registry
+| Tool                                          | Website                    |
+|-----------------------------------------------|----------------------------|
+| Autopsy                                       | <a href="https://www.autopsy.com/">Autopsy.com</a>|
+| John the Ripper                               | <a href="https://www.openwall.com/john/">Openwall.com</a>|
+| Windows Registry                              | <a href="https://learn.microsoft.com/en-us/windows/win32/sysinfo/registryhttps://learn.microsoft.com/en-us/windows/win32/sysinfo/registry">Microsoft.com</a>|
+
 
