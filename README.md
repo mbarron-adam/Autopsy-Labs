@@ -8,9 +8,7 @@ The goal of these labs is to simulate cases of searching a hard drive of evidenc
 
 - Understanding of Windows Registry.
 - Proficiency in analyzing and interpreting contents of files and emails.
-- 
-- 
-- 
+- Ways to open encrypted files using password crackers like John the Ripper
 
 ### Tools Used
 
